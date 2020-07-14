@@ -26,8 +26,11 @@ Redes de Computadores:
 
 
 **3º ANO A:**
- 
-...
+
+- Linguagem Go: O que é? onde mora? é de comer?
+    - [material clique aqui arquivo golang-e-playground.md](https://github.com/jhoonb/escola/blob/master/golang-e-playground.md)
+
+[![Linguagem Go: O que é? onde mora? é de comer?](http://img.youtube.com/vi/4OVp77caCFI/0.jpg)](http://www.youtube.com/watch?v=4OVp77caCFI "Linguagem Go: O que é? onde mora? é de comer?")...
 
 
 ## Vídeos Básicos e Configuração do Ambiente
@@ -35,6 +38,10 @@ Redes de Computadores:
 - Arquivos, extensões, hierarquia de pastas e Windows Explorer.
 
 [![Arquivos, extensões, hierarquia de pastas e Windows Explorer.](http://img.youtube.com/vi/V_yMYMNZvOA/0.jpg)](http://www.youtube.com/watch?v=V_yMYMNZvOA "Arquivos, extensões, hierarquia de pastas e Windows Explorer.")
+
+Complemento da aula anterior: Extensões, arquivos e Windows Explorer na prática.
+ 
+[![Extensões, arquivos e Windows Explorer na prática.](http://img.youtube.com/vi/kto4L15aEbY/0.jpg)](http://www.youtube.com/watch?v=kto4L15aEbY "Extensões, arquivos e Windows Explorer na prática.")
 
 - Vídeo Tutorial: Interpretador online de Lua e Python
 
