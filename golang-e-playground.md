@@ -2,8 +2,6 @@
 
 - Linguagem Go: O que é? onde mora? é de comer?
 
-[![Linguagem Go: O que é? onde mora? é de comer?](http://img.youtube.com/vi/4OVp77caCFI/0.jpg)](http://www.youtube.com/watch?v=4OVp77caCFI "Linguagem Go: O que é? onde mora? é de comer?")...
-
 - [Golang site oficial](http://golang.org/)
 - [Go Playground](https://play.golang.org/)
 
